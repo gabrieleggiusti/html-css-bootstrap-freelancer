@@ -9,3 +9,9 @@
   display: table;
   clear: both;
 }
+
+.debug{
+  background-color: rgba(241, 182, 18, 0.603);
+  border: 1px solid black;
+  min-height: 80px;
+}
