@@ -31,9 +31,15 @@ header nav .row{
   height: 100%;
 }
 
+/* JUMBO*/
 
 .jumbotron{
-  min-height: 400px;
+  min-height: 500px;
+  background-color: #1ABC9C;
+}
+
+.jumbotron img{
+  height: 150px;
 }
 
 .about .container{
