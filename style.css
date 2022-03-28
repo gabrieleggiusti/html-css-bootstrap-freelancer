@@ -10,6 +10,10 @@
   clear: both;
 }
 
+.min-h-300{
+  min-height: 300px;
+}
+
 .debug{
   background-color: rgba(241, 182, 18, 0.603);
   border: 1px solid black;
