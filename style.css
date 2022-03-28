@@ -17,9 +17,18 @@
 }
 
 
+/* HEADER  */
 
-.gg-bg-header {
+header {
   background-color: #2C3D50;
+  height: 80px;
+}
+header nav {
+  height: 100%;
+}
+
+header nav .row{
+  height: 100%;
 }
 
 
@@ -34,3 +43,9 @@
 .contact .container{
   padding: 0 60px;
 }
+
+/* MAIN  */
+
+
+
+/* FOOTER  */
